@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-veeam: #00b336;
+  --color-veeam-dark: #009a2e;
+  --color-veeam-light: #00cc3e;
+}
